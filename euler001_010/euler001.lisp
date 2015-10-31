@@ -10,3 +10,5 @@
     (-  (+  (sum-of-mod 3 999)
             (sum-of-mod 5 999))
         (sum-of-mod 15 999)))
+
+(print (euler1))
