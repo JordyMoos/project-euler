@@ -1,5 +1,4 @@
 
-
 (defun sum-of-mod (mod max)
     (* (/ (* (floor max mod)
              (1+ (floor max mod)))
